@@ -55,6 +55,7 @@ public class NewTest7 {
 			Assert.assertTrue(true);
 			System.out.println("Hello");
 			System.out.println("Hi");
+			System.out.println("Bye");
 		
 		}else {
 			driver.findElement(By.id("Email")).clear();
